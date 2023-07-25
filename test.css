@@ -1,3 +1,7 @@
 .bpw-header-title {
     color: red;
 }
+
+.bpw-from-bot .bpw-chat-bubble .bpw-chat-bubble-content {
+    color: green;
+}
